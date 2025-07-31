@@ -7,7 +7,6 @@ All gates are implemented in a single Verilog module and tested using a testbenc
 
 - AND  
 - OR  
-- NOT  
 - NAND  
 - NOR  
 - XOR  
